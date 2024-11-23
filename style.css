@@ -30,6 +30,9 @@
 .logoSection p {
   font-size: 1.5rem;
 }
+.menuButton{
+    display: none;
+}
 
 .navigationSection ul {
   display: flex;
